@@ -46,6 +46,7 @@ redacted_output.docx
 tmp/
 temp/
 *.tmp
+tmp/
 
 # ==========================================
 # Evaluation
