@@ -1,0 +1,1054 @@
+[
+  {
+    "text": "Customer name: Riya Sharma",
+    "gold": [
+      [
+        "Riya Sharma",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Arjun Mehta",
+    "gold": [
+      [
+        "Arjun Mehta",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Neha Kapoor",
+    "gold": [
+      [
+        "Neha Kapoor",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Vikram Singh",
+    "gold": [
+      [
+        "Vikram Singh",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Aman Verma",
+    "gold": [
+      [
+        "Aman Verma",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Priya Nair",
+    "gold": [
+      [
+        "Priya Nair",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Karan Malhotra",
+    "gold": [
+      [
+        "Karan Malhotra",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Sneha Iyer",
+    "gold": [
+      [
+        "Sneha Iyer",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Rahul Bansal",
+    "gold": [
+      [
+        "Rahul Bansal",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Ananya Rao",
+    "gold": [
+      [
+        "Ananya Rao",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Mohit Joshi",
+    "gold": [
+      [
+        "Mohit Joshi",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Customer name: Pooja Shah",
+    "gold": [
+      [
+        "Pooja Shah",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: riya.sharma@example.com",
+    "gold": [
+      [
+        "riya.sharma@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: arjun.mehta@example.com",
+    "gold": [
+      [
+        "arjun.mehta@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: neha.kapoor@example.com",
+    "gold": [
+      [
+        "neha.kapoor@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: vikram.singh@example.com",
+    "gold": [
+      [
+        "vikram.singh@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: aman.verma@example.com",
+    "gold": [
+      [
+        "aman.verma@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: priya.nair@example.com",
+    "gold": [
+      [
+        "priya.nair@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: karan.malhotra@example.com",
+    "gold": [
+      [
+        "karan.malhotra@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: sneha.iyer@example.com",
+    "gold": [
+      [
+        "sneha.iyer@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: rahul.bansal@example.com",
+    "gold": [
+      [
+        "rahul.bansal@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: ananya.rao@example.com",
+    "gold": [
+      [
+        "ananya.rao@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: mohit.joshi@example.com",
+    "gold": [
+      [
+        "mohit.joshi@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Email address: pooja.shah@example.com",
+    "gold": [
+      [
+        "pooja.shah@example.com",
+        "EMAIL"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9876543210",
+    "gold": [
+      [
+        "+91 9876543210",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9123456789",
+    "gold": [
+      [
+        "+91 9123456789",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9988776655",
+    "gold": [
+      [
+        "+91 9988776655",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9765432108",
+    "gold": [
+      [
+        "+91 9765432108",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9090909090",
+    "gold": [
+      [
+        "+91 9090909090",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9345678901",
+    "gold": [
+      [
+        "+91 9345678901",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9555555555",
+    "gold": [
+      [
+        "+91 9555555555",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 8866778899",
+    "gold": [
+      [
+        "+91 8866778899",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9000011111",
+    "gold": [
+      [
+        "+91 9000011111",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9887766554",
+    "gold": [
+      [
+        "+91 9887766554",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9776655443",
+    "gold": [
+      [
+        "+91 9776655443",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Phone: +91 9665544332",
+    "gold": [
+      [
+        "+91 9665544332",
+        "PHONE"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 12 MG Road, Pune 411001, Maharashtra, India",
+    "gold": [
+      [
+        "12 MG Road, Pune 411001, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 45 Park Street, Mumbai 400001, Maharashtra, India",
+    "gold": [
+      [
+        "45 Park Street, Mumbai 400001, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 8 Lake View Road, Bhopal 462001, Madhya Pradesh, India",
+    "gold": [
+      [
+        "8 Lake View Road, Bhopal 462001, Madhya Pradesh, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 17 Ring Road, Delhi 110001, India",
+    "gold": [
+      [
+        "17 Ring Road, Delhi 110001, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 22 Residency Lane, Bengaluru 560001, Karnataka, India",
+    "gold": [
+      [
+        "22 Residency Lane, Bengaluru 560001, Karnataka, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 101 Green Park, Ahmedabad 380001, Gujarat, India",
+    "gold": [
+      [
+        "101 Green Park, Ahmedabad 380001, Gujarat, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 5 Station Road, Nashik 422001, Maharashtra, India",
+    "gold": [
+      [
+        "5 Station Road, Nashik 422001, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 77 Civil Lines, Jaipur 302001, Rajasthan, India",
+    "gold": [
+      [
+        "77 Civil Lines, Jaipur 302001, Rajasthan, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 9 College Road, Nagpur 440001, Maharashtra, India",
+    "gold": [
+      [
+        "9 College Road, Nagpur 440001, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 31 Marine Drive, Mumbai 400002, Maharashtra, India",
+    "gold": [
+      [
+        "31 Marine Drive, Mumbai 400002, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 14 Hill Road, Pune 411007, Maharashtra, India",
+    "gold": [
+      [
+        "14 Hill Road, Pune 411007, Maharashtra, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Mailing address: 66 Market Street, Surat 395003, Gujarat, India",
+    "gold": [
+      [
+        "66 Market Street, Surat 395003, Gujarat, India",
+        "ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Acme Technologies Private Limited",
+    "gold": [
+      [
+        "Acme Technologies Private Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Northwind Systems Limited",
+    "gold": [
+      [
+        "Northwind Systems Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: BluePeak Solutions LLP",
+    "gold": [
+      [
+        "BluePeak Solutions LLP",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Contoso Manufacturing Corporation",
+    "gold": [
+      [
+        "Contoso Manufacturing Corporation",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Globex India Private Limited",
+    "gold": [
+      [
+        "Globex India Private Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Initech Services Limited",
+    "gold": [
+      [
+        "Initech Services Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Umbrella Logistics Private Limited",
+    "gold": [
+      [
+        "Umbrella Logistics Private Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Stark Engineering Corporation",
+    "gold": [
+      [
+        "Stark Engineering Corporation",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Wayne Enterprises Limited",
+    "gold": [
+      [
+        "Wayne Enterprises Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Wonka Foods Private Limited",
+    "gold": [
+      [
+        "Wonka Foods Private Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Hooli Networks Limited",
+    "gold": [
+      [
+        "Hooli Networks Limited",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "Employer: Pied Piper Technologies LLP",
+    "gold": [
+      [
+        "Pied Piper Technologies LLP",
+        "COMPANY"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 123-45-6789",
+    "gold": [
+      [
+        "123-45-6789",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 234-56-7890",
+    "gold": [
+      [
+        "234-56-7890",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 345-67-8901",
+    "gold": [
+      [
+        "345-67-8901",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 456-78-9012",
+    "gold": [
+      [
+        "456-78-9012",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 567-89-0123",
+    "gold": [
+      [
+        "567-89-0123",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 678-90-1234",
+    "gold": [
+      [
+        "678-90-1234",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 789-01-2345",
+    "gold": [
+      [
+        "789-01-2345",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 890-12-3456",
+    "gold": [
+      [
+        "890-12-3456",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 901-23-4567",
+    "gold": [
+      [
+        "901-23-4567",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 111-22-3333",
+    "gold": [
+      [
+        "111-22-3333",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 222-33-4444",
+    "gold": [
+      [
+        "222-33-4444",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "SSN: 333-44-5555",
+    "gold": [
+      [
+        "333-44-5555",
+        "SSN"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 4111 1111 1111 1111",
+    "gold": [
+      [
+        "4111 1111 1111 1111",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 4012 8888 8888 1881",
+    "gold": [
+      [
+        "4012 8888 8888 1881",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 5555 5555 5555 4444",
+    "gold": [
+      [
+        "5555 5555 5555 4444",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 3782 822463 10005",
+    "gold": [
+      [
+        "3782 822463 10005",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 6011 1111 1111 1117",
+    "gold": [
+      [
+        "6011 1111 1111 1117",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 3530 1113 3330 0000",
+    "gold": [
+      [
+        "3530 1113 3330 0000",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 3056 9309 0259 04",
+    "gold": [
+      [
+        "3056 9309 0259 04",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 3566 0020 2036 0505",
+    "gold": [
+      [
+        "3566 0020 2036 0505",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 6011 0009 9013 9424",
+    "gold": [
+      [
+        "6011 0009 9013 9424",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 2223 0031 2200 3222",
+    "gold": [
+      [
+        "2223 0031 2200 3222",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 4000 0000 0000 0002",
+    "gold": [
+      [
+        "4000 0000 0000 0002",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Card number: 5105 1051 0510 5100",
+    "gold": [
+      [
+        "5105 1051 0510 5100",
+        "CREDIT_CARD"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 14/08/1998",
+    "gold": [
+      [
+        "Date of birth: 14/08/1998",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 01/01/1985",
+    "gold": [
+      [
+        "Date of birth: 01/01/1985",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 23/11/1990",
+    "gold": [
+      [
+        "Date of birth: 23/11/1990",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 05/06/1979",
+    "gold": [
+      [
+        "Date of birth: 05/06/1979",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 19/09/2001",
+    "gold": [
+      [
+        "Date of birth: 19/09/2001",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 31/12/1988",
+    "gold": [
+      [
+        "Date of birth: 31/12/1988",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 07/03/1995",
+    "gold": [
+      [
+        "Date of birth: 07/03/1995",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 12/10/1982",
+    "gold": [
+      [
+        "Date of birth: 12/10/1982",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 28/02/1993",
+    "gold": [
+      [
+        "Date of birth: 28/02/1993",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 16/07/1975",
+    "gold": [
+      [
+        "Date of birth: 16/07/1975",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 09/04/1987",
+    "gold": [
+      [
+        "Date of birth: 09/04/1987",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Date of birth: 21/05/1999",
+    "gold": [
+      [
+        "Date of birth: 21/05/1999",
+        "DOB"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 192.168.1.1",
+    "gold": [
+      [
+        "192.168.1.1",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 10.0.0.5",
+    "gold": [
+      [
+        "10.0.0.5",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 172.16.10.20",
+    "gold": [
+      [
+        "172.16.10.20",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 8.8.8.8",
+    "gold": [
+      [
+        "8.8.8.8",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 1.1.1.1",
+    "gold": [
+      [
+        "1.1.1.1",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 203.0.113.10",
+    "gold": [
+      [
+        "203.0.113.10",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 198.51.100.25",
+    "gold": [
+      [
+        "198.51.100.25",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 192.0.2.44",
+    "gold": [
+      [
+        "192.0.2.44",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 100.64.12.8",
+    "gold": [
+      [
+        "100.64.12.8",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 172.20.1.7",
+    "gold": [
+      [
+        "172.20.1.7",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 10.10.10.10",
+    "gold": [
+      [
+        "10.10.10.10",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Server IP address: 192.168.100.200",
+    "gold": [
+      [
+        "192.168.100.200",
+        "IP_ADDRESS"
+      ]
+    ]
+  },
+  {
+    "text": "Order number 123456789 was processed successfully.",
+    "gold": []
+  },
+  {
+    "text": "Ticket 2026-001245 is closed.",
+    "gold": []
+  },
+  {
+    "text": "Invoice date 2026-08-13 is shown on the receipt.",
+    "gold": []
+  },
+  {
+    "text": "Amount 4111111111111112 is a ledger reference, not a card number.",
+    "gold": []
+  },
+  {
+    "text": "Version 10.0.0.42 is part of a software build label.",
+    "gold": []
+  },
+  {
+    "text": "The company policy document was approved by management.",
+    "gold": []
+  },
+  {
+    "text": "Contact the support team through the help portal.",
+    "gold": []
+  },
+  {
+    "text": "The project starts on 14/08/1998.",
+    "gold": []
+  },
+  {
+    "text": "Employee ID 9876543210 is stored internally.",
+    "gold": []
+  },
+  {
+    "text": "Branch code 02268052182 is an accounting identifier.",
+    "gold": []
+  },
+  {
+    "text": "Reference 123-45-6789 is a test fixture name, not an SSN.",
+    "gold": []
+  },
+  {
+    "text": "The road is 12 MG Road and the postal code is 411001.",
+    "gold": []
+  },
+  {
+    "text": "Northwind is used as a fictional example in this sentence.",
+    "gold": []
+  },
+  {
+    "text": "No personal data is present in this paragraph.",
+    "gold": []
+  },
+  {
+    "text": "Ticket 987654 and order 123456 are not PII.",
+    "gold": []
+  },
+  {
+    "text": "The IP range 192.168.1 is incomplete and is not an IP address.",
+    "gold": []
+  },
+  {
+    "text": "The date 2026-01-01 is a project date, not a birth date.",
+    "gold": []
+  },
+  {
+    "text": "The card batch 4111-1111 is too short to be a card number.",
+    "gold": []
+  },
+  {
+    "text": "Acme is mentioned as a generic placeholder, not a legal company name.",
+    "gold": []
+  },
+  {
+    "text": "The number 5555555555 is a test identifier without phone context.",
+    "gold": []
+  }
+]

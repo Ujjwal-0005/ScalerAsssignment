@@ -1,0 +1,115 @@
+# ==========================================
+# Node.js
+# ==========================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Input / Sensitive Documents
+# ==========================================
+
+# Original assignment document
+Red Herring Prospectus.docx
+Red_Herring_Prospectus.docx
+input/
+inputs/
+
+# Any other potentially sensitive source documents
+*.pdf
+*.xlsx
+*.xls
+*.csv
+
+# ==========================================
+# Generated / Processed Files
+# ==========================================
+
+# Generated redacted documents
+output/
+outputs/
+redacted_output.docx
+*_redacted.docx
+
+# Generated archives
+*.zip
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# ==========================================
+# Evaluation
+# ==========================================
+
+# Keep evaluation scripts/source code in GitHub,
+# but don't commit generated evaluation outputs.
+evaluation/results/
+evaluation/output/
+evaluation_report.docx
+evaluation_report.pdf
+
+# ==========================================
+# Logs
+# ==========================================
+
+logs/
+*.log
+
+# ==========================================
+# OS Files
+# ==========================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ==========================================
+# IDE / Editors
+# ==========================================
+
+.vscode/*
+!.vscode/settings.json
+
+.idea/
+*.iml
+
+# ==========================================
+# Coverage / Testing
+# ==========================================
+
+coverage/
+.nyc_output/
+
+# ==========================================
+# Build / Deployment
+# ==========================================
+
+dist/
+build/
+.vercel/
+.netlify/
+
+# ==========================================
+# Miscellaneous
+# ==========================================
+
+*.bak
+*.swp
+*.swo

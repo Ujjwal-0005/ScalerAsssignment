@@ -1,0 +1,14 @@
+{
+  "name": "scaler-pii-redaction-tool",
+  "version": "1.0.0",
+  "description": "Dependency-light Node.js DOCX PII redaction tool for the Scaler assignment",
+  "main": "redact_pii.js",
+  "scripts": {
+  "redact": "node src/redact_pii.js",
+  "evaluate": "node src/evaluate.js evaluation/eval_benchmark.json"
+},
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
